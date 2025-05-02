@@ -1,4 +1,4 @@
-# AAL Sales Analysis - Q4 2020 (Applied Data Science with Python Final Project)
+# AAL Sales Analysis - (Applied Data Science)
 
 ## Project Overview
 
